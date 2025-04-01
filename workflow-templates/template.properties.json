@@ -1,0 +1,13 @@
+{
+    "name": "Siali GH Action template",
+    "description": "Basic template",
+    "iconName": "octicon chicken",
+    "categories": [
+        "Continuous integration"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
